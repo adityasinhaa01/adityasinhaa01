@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = r'''<div align="center">
+<div align="center">
 
 # Aditya Sinha
 
@@ -87,8 +85,3 @@ A student-wellness project that combines a web application with an AI service an
 <div align="center">
   <sub>Learning, building, and improving one commit at a time.</sub>
 </div>
-'''
-
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created {path} ({path.stat().st_size} bytes)")
