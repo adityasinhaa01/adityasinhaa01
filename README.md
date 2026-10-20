@@ -26,38 +26,39 @@ I’m a CSE student focused on strengthening problem-solving fundamentals and bu
 
 ### 01 · Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,py" alt="C++, JavaScript, Python" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,py&theme=dark" alt="C++, JavaScript, Python" />
 </p>
 
 ### 02 · Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML5, CSS3, JavaScript, React.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML5, CSS3, JavaScript, React.js" />
 </p>
 
 ### 03 · Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Node.js, Express.js, FastAPI" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express.js, FastAPI" />
 </p>
 
 - REST APIs
 
 ### 04 · AI Engineering & LLM Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" />
 </p>
 
-- LLM Integration
-- RAG (Retrieval-Augmented Generation)
-- Vector Databases
-- Model Context Protocol (MCP)
-- AI Agents & Tool Calling
-- Prompt Engineering
-- Embeddings & Semantic Search
-- TensorFlow & AI Workflows
+<p>
+  <img src="https://img.shields.io/badge/LLM_Integration-20232A?style=flat-square&logo=openai&logoColor=white" alt="LLM Integration" />
+  <img src="https://img.shields.io/badge/RAG-20232A?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector_Databases-20232A?style=flat-square" alt="Vector Databases" />
+  <img src="https://img.shields.io/badge/MCP-20232A?style=flat-square" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/AI_Agents_%26_Tool_Calling-20232A?style=flat-square" alt="AI Agents and Tool Calling" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-20232A?style=flat-square" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Embeddings_%26_Semantic_Search-20232A?style=flat-square" alt="Embeddings and Semantic Search" />
+</p>
 
 ### 05 · Databases & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="MySQL, MongoDB, PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" alt="MySQL, MongoDB, PostgreSQL" />
 </p>
 
 - Vector Databases
@@ -70,15 +71,15 @@ I’m a CSE student focused on strengthening problem-solving fundamentals and bu
 
 ### 07 · DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash" alt="Git, GitHub, Linux, Shell Scripting" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash&theme=dark" alt="Git, GitHub, Linux, Shell Scripting" />
 </p>
 
 ### 08 · Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman" alt="VS Code, Postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" alt="VS Code, Postman" />
 </p>
 
-> These icons and labels represent technologies I use or am learning; proficiency varies by topic.
+> Technology logos are used where available. Concepts such as RAG, MCP, REST APIs, and semantic search are shown as labels because they do not have standard standalone technology logos.
 
 ## Selected Project
 
@@ -108,7 +109,9 @@ A student-wellness project that combines a web application with an AI service an
 <br/>
 
 <!-- Green-dot GitHub contribution calendar; dark background with readable labels -->
-<img src="https://ghchart.rshah.org/2ea043/adityasinhaa01" alt="GitHub green contribution calendar for adityasinhaa01" />
+<!-- GitHub's native green-dot contribution calendar appears on the profile page below the README.
+The external ghchart image service renders a light grid and does not reliably support a dark background,
+so it has intentionally been omitted rather than showing a broken-looking chart. -->
 
 </div>
 
