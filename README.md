@@ -47,13 +47,13 @@ I’m a CSE student focused on strengthening problem-solving fundamentals and bu
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/LLM_Integration-20232A?style=flat-square&logo=openai&logoColor=white" alt="LLM Integration" />
-  <img src="https://img.shields.io/badge/RAG-20232A?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/Vector_Databases-20232A?style=flat-square" alt="Vector Databases" />
-  <img src="https://img.shields.io/badge/MCP-20232A?style=flat-square" alt="Model Context Protocol" />
-  <img src="https://img.shields.io/badge/AI_Agents_%26_Tool_Calling-20232A?style=flat-square" alt="AI Agents and Tool Calling" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-20232A?style=flat-square" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Embeddings_%26_Semantic_Search-20232A?style=flat-square" alt="Embeddings and Semantic Search" />
+  <img src="https://img.shields.io/badge/LLM-20232A?style=flat-square&logo=openai&logoColor=white" alt="LLM Integration" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-20232A?style=flat-square" alt="RAG (Retrieval-Augmented Generation)" />
+  <img src="https://img.shields.io/badge/Vector_DB-20232A?style=flat-square" alt="Vector Databases" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-20232A?style=flat-square" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/AI_Agents-Tool_Calling-20232A?style=flat-square" alt="AI Agents and Tool Calling" />
+  <img src="https://img.shields.io/badge/Prompt-Engineering-20232A?style=flat-square" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Embeddings-Semantic_Search-20232A?style=flat-square" alt="Embeddings and Semantic Search" />
 </p>
 
 ### 05 · Databases & Storage
@@ -109,9 +109,10 @@ A student-wellness project that combines a web application with an AI service an
 <br/>
 
 <!-- Green-dot GitHub contribution calendar; dark background with readable labels -->
-<!-- GitHub's native green-dot contribution calendar appears on the profile page below the README.
-The external ghchart image service renders a light grid and does not reliably support a dark background,
-so it has intentionally been omitted rather than showing a broken-looking chart. -->
+<!-- Green-dot contribution calendar.
+The image is retained here; the ghchart service may render its own light grid because it does not expose
+a reliable background-color parameter. The rest of the README trackers use explicit dark colors. -->
+<img src="https://ghchart.rshah.org/2ea043/adityasinhaa01" alt="GitHub green-dot contribution calendar for adityasinhaa01" />
 
 </div>
 
