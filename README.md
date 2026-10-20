@@ -25,55 +25,60 @@ I’m a CSE student focused on strengthening problem-solving fundamentals and bu
 ## Skills & Technologies
 
 ### 01 · Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,py" alt="C++, JavaScript, Python" />
+</p>
 
 ### 02 · Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React.js](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML5, CSS3, JavaScript, React.js" />
+</p>
 
 ### 03 · Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-555555?style=flat&logo=fastapi&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Node.js, Express.js, FastAPI" />
+</p>
+
+- REST APIs
 
 ### 04 · AI Engineering & LLM Systems
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-6C47FF?style=flat)
-![RAG](https://img.shields.io/badge/RAG-6C47FF?style=flat)
-![Vector Databases](https://img.shields.io/badge/Vector_Databases-6C47FF?style=flat)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-6C47FF?style=flat)
-![AI Agents](https://img.shields.io/badge/AI_Agents_&_Tool_Calling-6C47FF?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6C47FF?style=flat)
-![Embeddings](https://img.shields.io/badge/Embeddings_&_Semantic_Search-6C47FF?style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow_&_AI_Workflows-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
+</p>
+
+- LLM Integration
+- RAG (Retrieval-Augmented Generation)
+- Vector Databases
+- Model Context Protocol (MCP)
+- AI Agents & Tool Calling
+- Prompt Engineering
+- Embeddings & Semantic Search
+- TensorFlow & AI Workflows
 
 ### 05 · Databases & Storage
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Vector Databases](https://img.shields.io/badge/Vector_Databases-555555?style=flat)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="MySQL, MongoDB, PostgreSQL" />
+</p>
+
+- Vector Databases
 
 ### 06 · Core Computer Science
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-00599C?style=flat)
-![OOP](https://img.shields.io/badge/Object--Oriented_Programming-555555?style=flat)
-![Operating Systems](https://img.shields.io/badge/Operating_Systems-555555?style=flat)
-![DBMS](https://img.shields.io/badge/Database_Management_Systems-555555?style=flat)
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Operating Systems
+- Database Management Systems
 
 ### 07 · DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash" alt="Git, GitHub, Linux, Shell Scripting" />
+</p>
 
 ### 08 · Development Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman" alt="VS Code, Postman" />
+</p>
 
-> These badges represent technologies I use or am learning; proficiency varies by topic.
+> These icons and labels represent technologies I use or am learning; proficiency varies by topic.
 
 ## Selected Project
 
@@ -93,21 +98,17 @@ A student-wellness project that combines a web application with an AI service an
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adityasinhaa01&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="Aditya's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinhaa01&layout=compact&hide_border=true&theme=github_dark" alt="Most-used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adityasinhaa01&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&icon_color=2ea043" alt="Aditya's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinhaa01&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9" alt="Most-used languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=adityasinhaa01&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=adityasinhaa01&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasinhaa01&bg_color=0d1117&color=c9d1d9&line=238636&point=2ea043&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-
-<br/>
-
-<!-- Green contribution-dot calendar (GitHub contribution heatmap) -->
-<img src="https://ghchart.rshah.org/2ea043/adityasinhaa01" alt="GitHub green contribution calendar" />
+<!-- Green-dot GitHub contribution calendar; dark background with readable labels -->
+<img src="https://ghchart.rshah.org/2ea043/adityasinhaa01" alt="GitHub green contribution calendar for adityasinhaa01" />
 
 </div>
 
