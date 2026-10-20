@@ -106,14 +106,6 @@ A student-wellness project that combines a web application with an AI service an
 
 <img src="https://streak-stats.demolab.com?user=adityasinhaa01&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
 
-<br/>
-
-<!-- Green-dot GitHub contribution calendar; dark background with readable labels -->
-<!-- Green-dot contribution calendar.
-The image is retained here; the ghchart service may render its own light grid because it does not expose
-a reliable background-color parameter. The rest of the README trackers use explicit dark colors. -->
-<img src="https://ghchart.rshah.org/2ea043/adityasinhaa01" alt="GitHub green-dot contribution calendar for adityasinhaa01" />
-
 </div>
 
 ## Connect
