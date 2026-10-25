@@ -2,7 +2,7 @@
 
 # Aditya Sinha
 
-### Computer Science Engineering Student | C++ • DSA • Full-Stack Development • AI Engineering
+### Computer Science Engineering Student | C++ • Full-Stack Development • AI Engineering
 
 I’m a CSE student focused on strengthening problem-solving fundamentals and building practical software projects.
 
