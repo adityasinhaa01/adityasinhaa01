@@ -2,104 +2,60 @@
 
 # Aditya Sinha
 
-### Computer Science Engineering Student | C++ • Full-Stack Development • AI Engineering
+**Computer Science & Engineering Student · Software Development · AI Engineering**
 
-I’m a CSE student focused on strengthening problem-solving fundamentals and building practical software projects.
+Building strong problem-solving fundamentals alongside practical full-stack applications and AI-powered systems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-adityasinhaa01-181717?style=flat&logo=github)](https://github.com/adityasinhaa01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-sinha001)
+[![GitHub](https://img.shields.io/badge/GitHub-adityasinhaa01-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityasinhaa01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Sinha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sinha001)
 
 </div>
 
 ---
 
-## About
+## About Me
 
-- 🎓 Studying Computer Science and Engineering.
-- 💻 Practising **C++ and Data Structures & Algorithms**.
-- 🌐 Learning full-stack development with **JavaScript, React.js, Node.js, Express.js, and MongoDB**.
-- 🤖 Exploring **LLM integration, RAG, AI agents, semantic search, and AI workflows**.
-- 🧠 Interested in backend development, AI-powered applications, and solving real-world problems.
-- 📌 Focused on learning consistently and improving through hands-on projects.
+I am a Computer Science and Engineering student focused on writing clean, reliable software and strengthening core engineering fundamentals.
 
-## Skills & Technologies
+- **Problem Solving & CS:** Practising Data Structures & Algorithms in **C++** and **Java**, backed by OOP, Operating Systems, and DBMS fundamentals.
+- **Full-Stack & Backend:** Building web applications and RESTful services with **JavaScript, React.js, Node.js, Express.js, FastAPI**, and relational/NoSQL databases.
+- **AI Engineering:** Exploring **LLM integration, Retrieval-Augmented Generation (RAG), AI agents, Model Context Protocol (MCP)**, and semantic search workflows.
+- **Approach:** Learning through hands-on implementation, iterative refinement, and real-world system design.
 
-### 01 · Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,py&theme=dark" alt="C++, JavaScript, Python" />
-</p>
+---
 
-### 02 · Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML5, CSS3, JavaScript, React.js" />
-</p>
+## Tech Stack & Skills
 
-### 03 · Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express.js, FastAPI" />
-</p>
+| Domain | Technologies & Concepts |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,java,js,py&theme=dark" alt="C++, Java, JavaScript, Python" height="40" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML5, CSS3, JavaScript, React.js" height="40" /> |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express.js, FastAPI" height="40" /><br/><img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=openapiinitiative&logoColor=2EA043" alt="REST APIs" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="PostgreSQL, MySQL, MongoDB" height="40" /><br/><img src="https://img.shields.io/badge/Vector_Databases-0D1117?style=flat-square" alt="Vector Databases" /> |
+| **AI & LLM Systems** | <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" height="40" /><br/><img src="https://img.shields.io/badge/LLM_Integration-0D1117?style=flat-square&logo=openai&logoColor=white" alt="LLM Integration" /> <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-0D1117?style=flat-square" alt="RAG" /> <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-0D1117?style=flat-square" alt="MCP" /> <img src="https://img.shields.io/badge/AI_Agents-Tool_Calling-0D1117?style=flat-square" alt="AI Agents and Tool Calling" /> <img src="https://img.shields.io/badge/Embeddings-Semantic_Search-0D1117?style=flat-square" alt="Embeddings and Semantic Search" /> <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=flat-square" alt="Prompt Engineering" /> |
+| **Tools & Environment** | <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman&theme=dark" alt="Git, GitHub, Linux, Bash, VS Code, Postman" height="40" /> |
+| **CS Fundamentals** | `Data Structures & Algorithms` · `Object-Oriented Programming` · `Operating Systems` · `DBMS` |
 
-- REST APIs
+---
 
-### 04 · AI Engineering & LLM Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/LLM-20232A?style=flat-square&logo=openai&logoColor=white" alt="LLM Integration" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-20232A?style=flat-square" alt="RAG (Retrieval-Augmented Generation)" />
-  <img src="https://img.shields.io/badge/Vector_DB-20232A?style=flat-square" alt="Vector Databases" />
-  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-20232A?style=flat-square" alt="Model Context Protocol" />
-  <img src="https://img.shields.io/badge/AI_Agents-Tool_Calling-20232A?style=flat-square" alt="AI Agents and Tool Calling" />
-  <img src="https://img.shields.io/badge/Prompt-Engineering-20232A?style=flat-square" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Embeddings-Semantic_Search-20232A?style=flat-square" alt="Embeddings and Semantic Search" />
-</p>
-
-### 05 · Databases & Storage
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" alt="MySQL, MongoDB, PostgreSQL" />
-</p>
-
-- Vector Databases
-
-### 06 · Core Computer Science
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Operating Systems
-- Database Management Systems
-
-### 07 · DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash&theme=dark" alt="Git, GitHub, Linux, Shell Scripting" />
-</p>
-
-### 08 · Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" alt="VS Code, Postman" />
-</p>
-
-> Technology logos are used where available. Concepts such as RAG, MCP, REST APIs, and semantic search are shown as labels because they do not have standard standalone technology logos.
-
-## Selected Project
+## Featured Project
 
 ### MindMate — Student Wellness Application
+> A student-wellness platform combining a web application, backend services, and an ML-powered stress prediction API.
 
-A student-wellness project that combines a web application with an AI service and ML-based stress prediction.
+- **Backend & Inference:** Built application integration alongside a **FastAPI** inference service.
+- **ML Integration:** Integrated a trained machine-learning model to generate real-time stress predictions.
+- **Product Exploration:** Worked on wellness recommendations and end-to-end service deployment workflows.
 
-- Worked on application/backend integration and a FastAPI-based inference service.
-- Integrated a trained machine-learning model for stress prediction.
-- Explored wellness recommendations and service deployment.
+**Explore:** [View GitHub Repositories →](https://github.com/adityasinhaa01?tab=repositories)
 
-**Repository:** [Browse my GitHub repositories](https://github.com/adityasinhaa01?tab=repositories)
-
-> Replace this with the direct MindMate repository URL when you’re ready to feature that repository.
+---
 
 ## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adityasinhaa01&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&icon_color=2ea043" alt="Aditya's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adityasinhaa01&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&icon_color=2ea043" alt="Aditya Sinha's GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinhaa01&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9" alt="Most-used languages" />
 
 <br/>
@@ -108,13 +64,12 @@ A student-wellness project that combines a web application with an AI service an
 
 </div>
 
-## Connect
-
-- **GitHub:** [@adityasinhaa01](https://github.com/adityasinhaa01)
-- **LinkedIn:** [Aditya Sinha](https://www.linkedin.com/in/aditya-sinha001)
-
 ---
 
 <div align="center">
-  <sub>Learning, building, and improving one commit at a time.</sub>
+
+**Let's Connect:** [GitHub](https://github.com/adityasinhaa01) · [LinkedIn](https://www.linkedin.com/in/aditya-sinha001)
+
+<sub>Learning, building, and improving — one commit at a time.</sub>
+
 </div>
