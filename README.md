@@ -62,85 +62,65 @@
 <div align="center">
   <h2>🛠️ Tech Stack &amp; Ecosystem</h2>
   <sub>Languages, frameworks, databases, and AI tooling I work with</sub>
-</div>
 
-<br/>
+  <br/><br/>
 
-<!-- 2x3 Tech Stack Bento Grid -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Programming Languages</h4>
-      <p>
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend &amp; APIs</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/REST_APIs-161B22?style=for-the-badge&logo=openapiinitiative&logoColor=2EA043" alt="REST APIs" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎨 Frontend Development</h4>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🗄️ Databases &amp; Storage</h4>
-      <p>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Vector_Databases-1F2937?style=for-the-badge" alt="Vector Databases" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 AI Engineering &amp; LLM Systems</h4>
-      <p>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-        <img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Integration" />
-        <img src="https://img.shields.io/badge/RAG-1F2937?style=for-the-badge" alt="RAG" />
-        <img src="https://img.shields.io/badge/MCP-1F2937?style=for-the-badge" alt="Model Context Protocol" />
-        <img src="https://img.shields.io/badge/AI_Agents-1F2937?style=for-the-badge" alt="AI Agents and Tool Calling" />
-        <img src="https://img.shields.io/badge/Semantic_Search-1F2937?style=for-the-badge" alt="Embeddings and Semantic Search" />
-        <img src="https://img.shields.io/badge/Prompt_Engineering-1F2937?style=for-the-badge" alt="Prompt Engineering" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛠️ Tools &amp; Environment</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="VS Code" />
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-      </p>
-    </td>
-  </tr>
-</table>
+  <h4>💻 Programming Languages</h4>
+  <p>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </p>
 
-<div align="center">
-  <p><b>Core Computer Science Foundations</b></p>
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-161B22?style=flat-square" alt="Data Structures and Algorithms" />
-  <img src="https://img.shields.io/badge/Object--Oriented_Programming-161B22?style=flat-square" alt="Object-Oriented Programming" />
-  <img src="https://img.shields.io/badge/Operating_Systems-161B22?style=flat-square" alt="Operating Systems" />
-  <img src="https://img.shields.io/badge/DBMS-161B22?style=flat-square" alt="Database Management Systems" />
+  <h4>⚙️ Backend &amp; APIs</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/REST_APIs-161B22?style=for-the-badge&logo=openapiinitiative&logoColor=2EA043" alt="REST APIs" />
+  </p>
+
+  <h4>🎨 Frontend &nbsp;·&nbsp; 🗄️ Databases &amp; Storage</h4>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Vector_Databases-1F2937?style=for-the-badge" alt="Vector Databases" />
+  </p>
+
+  <h4>🤖 AI Engineering &amp; LLM Systems</h4>
+  <p>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Integration" />
+    <img src="https://img.shields.io/badge/RAG-1F2937?style=for-the-badge" alt="RAG" />
+    <img src="https://img.shields.io/badge/MCP-1F2937?style=for-the-badge" alt="Model Context Protocol" />
+    <img src="https://img.shields.io/badge/AI_Agents-1F2937?style=for-the-badge" alt="AI Agents and Tool Calling" />
+    <img src="https://img.shields.io/badge/Semantic_Search-1F2937?style=for-the-badge" alt="Embeddings and Semantic Search" />
+    <img src="https://img.shields.io/badge/Prompt_Engineering-1F2937?style=for-the-badge" alt="Prompt Engineering" />
+  </p>
+
+  <h4>🛠️ Tools &amp; Environment</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  </p>
+
+  <h4>🧠 Core Computer Science Foundations</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-161B22?style=flat-square" alt="Data Structures and Algorithms" />
+    <img src="https://img.shields.io/badge/Object--Oriented_Programming-161B22?style=flat-square" alt="Object-Oriented Programming" />
+    <img src="https://img.shields.io/badge/Operating_Systems-161B22?style=flat-square" alt="Operating Systems" />
+    <img src="https://img.shields.io/badge/DBMS-161B22?style=flat-square" alt="Database Management Systems" />
+  </p>
 </div>
 
 <br/>
