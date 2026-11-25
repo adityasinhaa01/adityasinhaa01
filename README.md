@@ -2,10 +2,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020504,30:052516,65:0B4025,100:020504&height=200&section=header&text=ADITYA%20SINHA&fontSize=58&fontColor=FFFFFF&fontAlignY=37&animation=twinkling&desc=SOFTWARE%20ENGINEERING%20%C2%B7%20BACKEND%20%C2%B7%20AI%20SYSTEMS&descSize=15&descAlignY=59&descColor=A7F3D0" />
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=800&color=4ADE80&center=true&vCenter=true&width=750&lines=%3E_+Engineering+ideas+into+reality.;%3E_+Building+scalable+backend+systems.;%3E_+Exploring+the+frontiers+of+AI.;%3E_+Learning.+Building.+Breaking.+Improving." />
 
-<a href="https://github.com/adityasinhaa01"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/aditya-sinha001"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://codolio.com/profile/adityasinhaa01"><img src="https://img.shields.io/badge/Codolio-EA580C?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://github.com/adityasinhaa01"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp; <a href="https://www.linkedin.com/in/aditya-sinha001"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp; <a href="https://codolio.com/profile/adityasinhaa01"><img src="https://img.shields.io/badge/Codolio-EA580C?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=adityasinhaa01&style=flat-square&color=14532D&label=PROFILE+VIEWS" />
-<sub>COMPUTER SCIENCE & ENGINEERING · INDIA</sub>
+
 </div>
 
 ---
