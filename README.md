@@ -1,25 +1,27 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:2EA043&height=210&section=header&text=Aditya%20Sinha&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=CSE%20Student%20%7C%20Backend%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Engineering&descSize=16&descAlignY=60&descColor=C9D1D9" alt="Aditya Sinha Banner" />
+<!-- Hero Card -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:0B3B2B,100:161B22&height=170&text=ADITYA%20SINHA&fontSize=44&fontColor=FFFFFF&fontAlignY=42&desc=CSE%20Student%20%C2%B7%20Backend%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Engineering&descSize=16&descAlignY=67&descColor=A7F3D0" alt="Aditya Sinha Hero Banner" />
 
-<!-- Dynamic Typing Tagline -->
-<a href="https://github.com/adityasinhaa01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=780&lines=Backend+Systems+%C2%B7+Spring+Boot+%C2%B7+Node.js+%C2%B7+FastAPI;DSA+and+Problem+Solving+in+C%2B%2B+and+Java;AI+Engineering+%C2%B7+RAG+%C2%B7+Agents+%C2%B7+MCP+Workflows" alt="Typing animation" />
-</a>
+<!-- Status Pills -->
+<p>
+  <img src="https://img.shields.io/badge/%E2%9A%A1_Building_Scalable_Systems_%26_AI_Agents-161B22?style=flat-square" alt="Building Scalable Systems and AI Agents" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93_B.Tech_%E2%80%94_Computer_Science_%26_Engineering-161B22?style=flat-square" alt="B.Tech Computer Science and Engineering" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB_C%2B%2B_%C2%B7_Java_%C2%B7_Full--Stack_%C2%B7_AI-161B22?style=flat-square" alt="C++, Java, Full-Stack, AI" />
+</p>
 
-<br/>
-
-<!-- Socials -->
-<a href="https://github.com/adityasinhaa01">
-  <img src="https://img.shields.io/badge/GitHub-adityasinhaa01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/aditya-sinha001">
-  <img src="https://img.shields.io/badge/LinkedIn-Aditya_Sinha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://codolio.com/profile/adityasinhaa01">
-  <img src="https://img.shields.io/badge/Codolio-adityasinhaa01-EA580C?style=for-the-badge" alt="Codolio" />
-</a>
+<!-- Social Links -->
+<p>
+  <a href="https://github.com/adityasinhaa01">
+    <img src="https://img.shields.io/badge/GitHub-adityasinhaa01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-sinha001">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya_Sinha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://codolio.com/profile/adityasinhaa01">
+    <img src="https://img.shields.io/badge/Codolio-adityasinhaa01-EA580C?style=for-the-badge" alt="Codolio" />
+  </a>
+</p>
 
 </div>
 
@@ -29,11 +31,11 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><code>~/aditya/profile.json</code></h3>
+      <p>🔴 🟡 🟢 &nbsp; <code>~/aditya/profile.json</code></p>
       <pre>{
   "name": "Aditya Sinha",
   "degree": "B.Tech — Computer Science & Engineering",
-  "dsa_languages": ["C++", "Java"],
+  "core_languages": ["C++", "Java", "JavaScript", "Python"],
   "focus_areas": [
     "Backend & REST Architecture",
     "Full-Stack Web Applications",
@@ -44,7 +46,7 @@
 }</pre>
     </td>
     <td width="50%" valign="top">
-      <h3>Engineering Focus</h3>
+      <h3>⚙️ Engineering Focus</h3>
       <ul>
         <li><b>Problem Solving &amp; Core CS:</b> Practising Data Structures &amp; Algorithms in <b>C++</b> and <b>Java</b>, grounded in OOP, OS, and DBMS.</li>
         <li><b>Backend Engineering:</b> Designing structured APIs and server-side services with <b>Spring Boot</b>, <b>Node.js / Express.js</b>, and <b>FastAPI</b>.</li>
@@ -58,7 +60,7 @@
 <br/>
 
 <div align="center">
-  <h2>Tech Stack &amp; Ecosystem</h2>
+  <h2>🛠️ Tech Stack &amp; Ecosystem</h2>
   <sub>Languages, frameworks, databases, and AI tooling I work with</sub>
 </div>
 
@@ -112,10 +114,10 @@
       <p>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
         <img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Integration" />
-        <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge" alt="RAG" />
-        <img src="https://img.shields.io/badge/Model_Context_Protocol-0D1117?style=for-the-badge" alt="Model Context Protocol" />
-        <img src="https://img.shields.io/badge/AI_Agents_%26_Tool_Calling-161B22?style=for-the-badge" alt="AI Agents and Tool Calling" />
-        <img src="https://img.shields.io/badge/Embeddings_%26_Semantic_Search-161B22?style=for-the-badge" alt="Embeddings and Semantic Search" />
+        <img src="https://img.shields.io/badge/RAG-1F2937?style=for-the-badge" alt="RAG" />
+        <img src="https://img.shields.io/badge/MCP-1F2937?style=for-the-badge" alt="Model Context Protocol" />
+        <img src="https://img.shields.io/badge/AI_Agents-1F2937?style=for-the-badge" alt="AI Agents and Tool Calling" />
+        <img src="https://img.shields.io/badge/Semantic_Search-1F2937?style=for-the-badge" alt="Embeddings and Semantic Search" />
         <img src="https://img.shields.io/badge/Prompt_Engineering-1F2937?style=for-the-badge" alt="Prompt Engineering" />
       </p>
     </td>
@@ -135,22 +137,22 @@
 
 <div align="center">
   <p><b>Core Computer Science Foundations</b></p>
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0D1117?style=for-the-badge" alt="Data Structures and Algorithms" />
-  <img src="https://img.shields.io/badge/Object--Oriented_Programming-0D1117?style=for-the-badge" alt="Object-Oriented Programming" />
-  <img src="https://img.shields.io/badge/Operating_Systems-0D1117?style=for-the-badge" alt="Operating Systems" />
-  <img src="https://img.shields.io/badge/DBMS-0D1117?style=for-the-badge" alt="Database Management Systems" />
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-161B22?style=flat-square" alt="Data Structures and Algorithms" />
+  <img src="https://img.shields.io/badge/Object--Oriented_Programming-161B22?style=flat-square" alt="Object-Oriented Programming" />
+  <img src="https://img.shields.io/badge/Operating_Systems-161B22?style=flat-square" alt="Operating Systems" />
+  <img src="https://img.shields.io/badge/DBMS-161B22?style=flat-square" alt="Database Management Systems" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h2>Featured Project</h2>
+  <h2>🚀 Featured Project</h2>
 </div>
 
 <!-- Project Spotlight Card -->
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="66%" valign="top">
       <h3>MindMate — Student Wellness Application</h3>
       <p>A student-wellness platform combining a web application, backend services, and an ML-powered stress prediction API.</p>
       <ul>
@@ -164,12 +166,12 @@
         </a>
       </p>
     </td>
-    <td width="35%" valign="top">
+    <td width="34%" valign="top">
       <h4>Architecture &amp; Stack</h4>
       <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br/>
-        <img src="https://img.shields.io/badge/ML_Inference-161B22?style=for-the-badge" alt="ML Inference" /><br/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/ML_Inference-161B22?style=for-the-badge" alt="ML Inference" />
         <img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=openapiinitiative&logoColor=2EA043" alt="REST API" />
       </p>
     </td>
@@ -179,19 +181,29 @@
 <br/>
 
 <div align="center">
-  <h2>GitHub Activity</h2>
+  <h2>📊 GitHub Activity</h2>
   <sub>Live contribution metrics and language breakdown</sub>
-  <br/><br/>
+</div>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adityasinhaa01&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&icon_color=2ea043" alt="Aditya Sinha's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinhaa01&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9" alt="Most-used languages" />
+<br/>
 
-  <br/>
+<!-- 3-Column Analytics Dashboard -->
+<table>
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=adityasinhaa01&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&icon_color=2ea043" alt="Aditya Sinha's GitHub statistics" />
+    </td>
+    <td width="27%" align="center" valign="middle">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinhaa01&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9" alt="Most-used languages" />
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img width="100%" src="https://streak-stats.demolab.com?user=adityasinhaa01&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+    </td>
+  </tr>
+</table>
 
-  <img src="https://streak-stats.demolab.com?user=adityasinhaa01&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+<br/>
 
-  <br/><br/>
-
-  <!-- Footer Wave -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,45:161B22,100:0D1117&height=110&section=footer&text=Learning%2C%20building%2C%20and%20improving%20%E2%80%94%20one%20commit%20at%20a%20time.&fontSize=15&fontColor=C9D1D9&fontAlignY=68" alt="Footer Banner" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:161B22,100:0B3B2B&height=65&text=Learning%2C%20building%2C%20and%20improving%20%E2%80%94%20one%20commit%20at%20a%20time.&fontSize=15&fontColor=C9D1D9&fontAlignY=52" alt="Footer Banner" />
 </div>
