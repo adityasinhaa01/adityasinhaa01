@@ -1,139 +1,266 @@
-<div align="center">
+ <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0B3D24,100:041F11&height=260&section=header&text=ADITYA%20SINHA&fontSize=64&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=CS%20Engineer%20%C2%B7%20Backend%20%C2%B7%20AI%20Systems&descSize=18&descAlignY=64&descColor=3FB950" alt="Aditya Sinha" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020504,30:052516,65:0B4025,100:020504&height=250&section=header&text=ADITYA%20SINHA&fontSize=60&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=SOFTWARE%20ENGINEERING%20%C2%B7%20BACKEND%20%C2%B7%20AI%20SYSTEMS&descSize=15&descAlignY=59&descColor=9FE8BC" />
 
-<a href="https://github.com/adityasinhaa01">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=3FB950&center=true&vCenter=true&width=760&lines=I+build+backends+that+don't+fall+over;Spring+Boot+%7C+Node.js+%7C+FastAPI;DSA+in+C%2B%2B+%26+Java%2C+every+single+day;Shipping+LLM+apps%3A+RAG%2C+agents%2C+MCP" alt="Typing tagline" />
-</a>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=4ADE80&center=true&vCenter=true&width=750&lines=%3E_+Engineering+ideas+into+reality.;%3E_+Building+scalable+backend+systems.;%3E_+Exploring+the+frontiers+of+AI.;%3E_+Learning.+Building.+Breaking.+Improving." />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/aditya-sinha001"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://codolio.com/profile/adityasinhaa01"><img src="https://img.shields.io/badge/Codolio-My_DSA_Grind-EA580C?style=for-the-badge" alt="Codolio" /></a>
-<a href="https://github.com/adityasinhaa01?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-<img src="https://komarev.com/ghpvc/?username=adityasinhaa01&label=Profile+Views&color=0B3D24&style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/adityasinhaa01"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aditya-sinha001"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://codolio.com/profile/adityasinhaa01"><img src="https://img.shields.io/badge/CODOLIO-EA580C?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=adityasinhaa01&style=for-the-badge&color=14532D&label=VISITORS" />
+
+<br/><br/>
+
+<sub>COMPUTER SCIENCE & ENGINEERING · INDIA</sub>
 
 </div>
 
 <br/>
 
-## `> whoami`
+<div align="center">
 
-```ts
-const aditya = {
-  role:      "CS Engineering student",
-  focus:     ["Backend Engineering", "Applied AI / LLM Systems", "DSA"],
-  languages: ["C++", "Java", "Python", "JavaScript"],
-  buildingNow: "Spring Boot REST APIs",
-  practising:  "Data Structures & Algorithms",
-  exploring:   ["RAG", "AI Agents", "Model Context Protocol"],
-  lookingFor:  "Internships / projects where I ship real backend + AI features",
-  motto:       "Fundamentals first. Ship early. Fix in public.",
-};
+### Building beyond the ordinary.
+
+*I don't just want to learn how technology works. I want to build what comes next.*
+
+</div>
+
+---
+
+## `01 / THE DEVELOPER`
+
+Hey! I'm **Aditya Sinha** — a Computer Science & Engineering student passionate about software engineering, backend architecture, and applied artificial intelligence.
+
+I enjoy going beyond tutorials, understanding systems from the inside out, and turning ideas into functional products.
+
+My engineering interests revolve around three things:
+
+| | Area | What interests me |
+|:--:|:--|:--|
+| ⚙️ | **Backend Engineering** | APIs, architecture, databases & scalable systems |
+| 🧠 | **AI Engineering** | LLMs, RAG, AI agents & intelligent workflows |
+| 💻 | **Problem Solving** | DSA, algorithms & computer science fundamentals |
+
+**A few things about me:**
+
+- 🎓 Pursuing B.Tech in Computer Science & Engineering.
+- 🧩 Primary problem-solving language: C++.
+- ⚡ Exploring Spring Boot, Node.js and FastAPI.
+- 🤖 Experimenting with LLM-powered applications and AI systems.
+- 🚀 Interested in building independent products and eventually starting something of my own.
+
+<br/>
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    string mindset = "Think deeply. Build relentlessly.";
+    string goal = "Turn ambitious ideas into real products.";
+
+    while (true) {
+        learn();
+        build();
+        experiment();
+        improve();
+    }
+}
 ```
 
-<br/>
+---
 
-## ⚡ What I'm Up To
-
-| 🔨 Building | 📚 Practising | 🧪 Exploring |
-|:--|:--|:--|
-| REST APIs with **Spring Boot**, **Node.js**, **FastAPI** | **DSA** in C++ and Java, plus OOP, OS and DBMS fundamentals | **LLM integration**, **RAG**, **Vector DBs**, **MCP**, tool calling |
-
-<br/>
-
-## 🧰 Tech Stack
+## `02 / TECHNOLOGIES & TOOLS`
 
 <div align="center">
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=cpp,java,py,js&theme=dark" alt="Languages" />
-
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi&theme=dark" alt="Backend" />
-
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend" />
-
-**Databases**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Databases" />
-
-**AI / ML**<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="AI ML" />
-<img src="https://img.shields.io/badge/RAG-0B3D24?style=for-the-badge" alt="RAG" />
-<img src="https://img.shields.io/badge/MCP-0B3D24?style=for-the-badge" alt="MCP" />
-<img src="https://img.shields.io/badge/Vector_DB-0B3D24?style=for-the-badge" alt="Vector DB" />
-<img src="https://img.shields.io/badge/Prompt_Eng-0B3D24?style=for-the-badge" alt="Prompt Engineering" />
-
-**Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman&theme=dark" alt="Tools" />
-
-</div>
-
-<br/>
-
-## 🚀 Featured Project
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### 🧠 MindMate
-*Student wellness platform with real-time ML stress prediction.*
-
-- **FastAPI** inference service serving a trained ML model
-- Web app + backend integration, built end to end
-- Wellness recommendations based on prediction output
-- Deployment workflow explored from dev to live
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="ML" />
-
-</td>
-<td width="45%" align="center" valign="middle">
-
-<!-- Change repo=MindMate to your exact repo name -->
-<a href="https://github.com/adityasinhaa01/MindMate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinhaa01&repo=MindMate&theme=github_dark&bg_color=0d1117&title_color=3FB950&icon_color=3FB950&hide_border=true" alt="MindMate repo card" />
-</a>
-
-</td>
-</tr>
-</table>
-
-<!--
-  ADD 2 MORE PROJECTS HERE (copy the table above). Recruiters scroll for projects.
-  One project looks like a one-off. Three looks like a pattern.
--->
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityasinhaa01&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=3FB950&icon_color=3FB950&text_color=c9d1d9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinhaa01&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=3FB950&text_color=c9d1d9" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=adityasinhaa01&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityasinhaa01&bg_color=0D1117&color=3FB950&line=2EA043&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
-
-</div>
-
-<br/>
-
-## 🤝 Let's Connect
-
-Open to **internships**, **collabs**, and **backend / AI projects**. If you're building something interesting, hit me up.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aditya-sinha001"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<sub>MY DEVELOPMENT ECOSYSTEM</sub>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0B3D24,100:041F11&height=120&section=footer&text=Learning%2C%20building%2C%20shipping.&fontSize=18&fontColor=3FB950&fontAlignY=68" alt="Footer" />
+**01 — PROGRAMMING LANGUAGES**
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<br/><br/>
+
+**02 — BACKEND & API ENGINEERING**
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=openapiinitiative&logoColor=3FB950" />
+
+<br/><br/>
+
+**03 — FRONTEND & DATABASES**
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<br/><br/>
+
+**04 — ARTIFICIAL INTELLIGENCE & LLM SYSTEMS**
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/RAG-0B3D24?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-14532D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Agents-166534?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector_Search-064E3B?style=for-the-badge" />
+
+<br/><br/>
+
+**05 — TOOLS & ENVIRONMENT**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DATA_STRUCTURES_%26_ALGORITHMS-0D1117?style=flat-square&labelColor=14532D" />
+<img src="https://img.shields.io/badge/OOP-0D1117?style=flat-square&labelColor=14532D" />
+<img src="https://img.shields.io/badge/OPERATING_SYSTEMS-0D1117?style=flat-square&labelColor=14532D" />
+<img src="https://img.shields.io/badge/DBMS-0D1117?style=flat-square&labelColor=14532D" />
+
+</div>
+
+---
+
+## `03 / SELECTED WORK`
+
+<div align="center">
+
+### 🧠 MindMate
+
+**A student-wellness platform powered by web technologies, machine learning and AI.**
+
+<br/>
+
+<img src="https://img.shields.io/badge/PROJECT-01-14532D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WEB_%2B_AI-0D1117?style=for-the-badge" />
+
+</div>
+
+- Built a React-based application with a Node.js and Express backend.
+- Integrated a FastAPI service for machine-learning-based stress prediction.
+- Worked with MongoDB, AI integrations and deployment workflows.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/adityasinhaa01/mindmate">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>More experiments, projects and ideas are available in my repositories.</sub>
+
+<a href="https://github.com/adityasinhaa01?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=3FB950" />
+</a>
+
+</div>
+
+---
+
+## `04 / GITHUB ANALYTICS`
+
+<div align="center">
+
+<sub>EVERY CONTRIBUTION IS ANOTHER STEP FORWARD</sub>
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityasinhaa01&bg_color=080D0A&color=4ADE80&line=16A34A&point=FFFFFF&area=true&hide_border=true&custom_title=THE%20CONTRIBUTION%20TIMELINE" />
+
+<br/><br/>
+
+<a href="https://github.com/adityasinhaa01">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=adityasinhaa01&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=080D0A&title_color=4ADE80&text_color=C9D1D9&icon_color=22C55E&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/adityasinhaa01">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinhaa01&layout=compact&hide_border=true&theme=github_dark&bg_color=080D0A&title_color=4ADE80&text_color=C9D1D9" />
+</a>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=adityasinhaa01&hide_border=true&background=080D0A&ring=16A34A&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+
+</div>
+
+---
+
+## `05 / BEYOND THE TERMINAL`
+
+I believe the best engineers aren't just good at writing code — they're curious about the world around them.
+
+Outside software, I enjoy exploring:
+
+- 🌌 Physics, space and the mysteries of the universe.
+- ⚡ Electronics, Arduino and emerging technologies.
+- 🚀 Entrepreneurship, product building and unconventional ideas.
+
+I'm here to learn, experiment, collaborate and build things that matter.
+
+---
+
+<div align="center">
+
+## `THE NEXT COMMIT IS ALWAYS BETTER.`
+
+<sub>Stay curious. Keep building. Never stop questioning.</sub>
+
+<br/><br/>
+
+<a href="https://github.com/adityasinhaa01">
+<img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-14532D?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/adityasinhaa01">GitHub</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/aditya-sinha001">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://codolio.com/profile/adityasinhaa01">Codolio</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020504,35:052516,70:0B4025,100:020504&height=130&section=footer" />
 
 </div>
