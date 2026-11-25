@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:2EA043&height=210&section=header&text=Aditya%20Sinha&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=CSE%20Student%20%7C%20Backend%20%26%20Full-Stack%20Developer%20%7C%20AI%20Engineering&descSize=16&descAlignY=60&descColor=C9D1D9" alt="Aditya Sinha Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:2EA043&height=210&section=header&text=Aditya%20Sinha&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=CSE%20Student%20%7C%20Backend%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Engineering&descSize=16&descAlignY=60&descColor=C9D1D9" alt="Aditya Sinha Banner" />
 
 <!-- Dynamic Typing Tagline -->
 <a href="https://github.com/adityasinhaa01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=680&lines=Engineering+Scalable+Backends+with+Spring+Boot%2C+Node.js+%26+FastAPI;Sharpening+DSA+%26+Problem+Solving+in+C%2B%2B+and+Java;Building+RAG+Pipelines%2C+AI+Agents+%26+MCP+Workflows" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=780&lines=Backend+Systems+%C2%B7+Spring+Boot+%C2%B7+Node.js+%C2%B7+FastAPI;DSA+and+Problem+Solving+in+C%2B%2B+and+Java;AI+Engineering+%C2%B7+RAG+%C2%B7+Agents+%C2%B7+MCP+Workflows" alt="Typing animation" />
 </a>
 
 <br/>
@@ -16,6 +16,9 @@
 </a>
 <a href="https://www.linkedin.com/in/aditya-sinha001">
   <img src="https://img.shields.io/badge/LinkedIn-Aditya_Sinha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://codolio.com/profile/adityasinhaa01">
+  <img src="https://img.shields.io/badge/Codolio-adityasinhaa01-EA580C?style=for-the-badge" alt="Codolio" />
 </a>
 
 </div>
