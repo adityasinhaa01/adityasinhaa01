@@ -10,7 +10,6 @@
 <a href="https://www.linkedin.com/in/aditya-sinha001"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://codolio.com/profile/adityasinhaa01"><img src="https://img.shields.io/badge/Codolio-EA580C?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=adityasinhaa01&style=flat-square&color=14532D&label=PROFILE+VIEWS" />
 
