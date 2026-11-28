@@ -106,7 +106,7 @@ int main() {
 
 <sub>EVERY CONTRIBUTION IS ANOTHER STEP FORWARD</sub>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityasinhaa01&bg_color=080D0A&color=4ADE80&line=16A34A&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityasinhaa01&theme=github_dark" />
 
 <a href="https://github.com/adityasinhaa01"><img height="170" src="https://github-readme-stats.vercel.app/api?username=adityasinhaa01&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=080D0A&title_color=4ADE80&text_color=C9D1D9&icon_color=22C55E&include_all_commits=true" /></a>
 <a href="https://github.com/adityasinhaa01"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinhaa01&layout=compact&hide_border=true&theme=github_dark&bg_color=080D0A&title_color=4ADE80&text_color=C9D1D9" /></a>
